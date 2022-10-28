@@ -1,1 +1,1 @@
-# therno_regression_01
+# thermo_regression_01
