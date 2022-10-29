@@ -10,5 +10,5 @@ This Regression model predicts Temperature with help of features:
 
 The [data](https://github.com/adijams01/thermo_regression_01/blob/main/thermodynamics_csv.csv) :computer: was collected by us through various website :scroll:
 
-Contributors
+### Contributors
 * [Chandu](https://github.com/Chandu106)
