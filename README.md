@@ -31,7 +31,7 @@ variation of features against temperature can see like below figure [here](https
 
 ## Results
 
-Best performing model is model_08 with loss: 2.9669 (- mae: 2.9669)
+Best performing model is model_08 with **_loss: 2.9669 (- mae: 2.9669)_**
 
 
 ![3](https://user-images.githubusercontent.com/92617405/201166844-686d3a3d-75b5-4a37-a55d-8aceb94085c4.jpeg)
