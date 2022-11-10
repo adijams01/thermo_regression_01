@@ -1,11 +1,11 @@
 # Thermo_Regression
 
 ## Table of content
-1. [Abstract]()
-2. [Data]()
-3. [Results]()
-4. [Refrences]() 
-5. [Contributors]()
+1. [Abstract](https://github.com/adijams01/thermo_regression_01/blob/main/README.md#abstract)
+2. [Data](https://github.com/adijams01/thermo_regression_01/blob/main/README.md#data)
+3. [Results](https://github.com/adijams01/thermo_regression_01/blob/main/README.md#results)
+4. [Refrences](https://github.com/adijams01/thermo_regression_01/blob/main/README.md#results) 
+5. [Contributors](https://github.com/adijams01/thermo_regression_01/blob/main/README.md#contributors)
 ### Abstract
 Weather prediction is one of the most important research areas due to its applicability in real-world problems like meteorology, agricultural studies, etc.
 
