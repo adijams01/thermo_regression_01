@@ -1,7 +1,12 @@
-
 # Thermo_Regression
 
-## Abstract
+## Table of content
+1. [Abstract]()
+2. [Data]()
+3. [Results]()
+4. [Refrences]() 
+5. [Contributors]()
+### Abstract
 Weather prediction is one of the most important research areas due to its applicability in real-world problems like meteorology, agricultural studies, etc.
 
 We propose a method for temperature prediction using machine learning model - [Multiple Linear Regression (MLR)](https://en.wikipedia.org/wiki/Linear_regression)
@@ -15,7 +20,7 @@ We propose a method for temperature prediction using machine learning model - [M
 
 The experimental results are evaluated using  [Mean Absolute Error (MAE)](),this error metric shows that how much precise our model is for temperature prediction.
 
-## Data
+### Data
 
 The [data](https://github.com/adijams01/thermo_regression_01/blob/main/thermodynamics_csv.csv) :computer: was collected by us through various website :scroll:
 
@@ -29,7 +34,7 @@ variation of features against temperature can be seen like below figure [here](h
 
 
 
-## Results
+### Results
 
 Best performing model is model_08 with **_loss: 2.9669 (- mae: 2.9669)_**
 
@@ -37,8 +42,8 @@ Best performing model is model_08 with **_loss: 2.9669 (- mae: 2.9669)_**
 ![3](https://user-images.githubusercontent.com/92617405/201166844-686d3a3d-75b5-4a37-a55d-8aceb94085c4.jpeg)
 
 
-## References
+### References
 
-## Contributors
+### Contributors
 * [Chandu](https://github.com/Chandu106)
 * [Aaditya](https://github.com/ad5454)
