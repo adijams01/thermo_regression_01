@@ -19,15 +19,22 @@ The experimental results are evaluated using  [Mean Absolute Error (MAE)](),this
 
 The [data](https://github.com/adijams01/thermo_regression_01/blob/main/thermodynamics_csv.csv) :computer: was collected by us through various website :scroll:
 
-![D](https://raw.githubusercontent.com/adijams01/thermo_regression_01/main/IMG_20221110_222903.jpg)
+
+![1](https://user-images.githubusercontent.com/92617405/201166911-e191cfae-9f35-485d-b866-b1a36624b994.jpeg)
 
 variation of features against temperature can see like below figure [here](https://github.com/adijams01/thermo_regression_01/blob/main/Data_Graphs.ipynb)
 
 
-![A](https://raw.githubusercontent.com/adijams01/thermo_regression_01/main/IMG_20221110_222840.jpg)
+![2](https://user-images.githubusercontent.com/92617405/201166975-2aa14538-7689-4ab1-9e1d-ccc18874c209.jpeg)
+
+
 
 ## Results
 
+Best performing model is model_08 with loss: 2.9669 (- mae: 2.9669)
+
+
+![3](https://user-images.githubusercontent.com/92617405/201166844-686d3a3d-75b5-4a37-a55d-8aceb94085c4.jpeg)
 
 
 ## References
