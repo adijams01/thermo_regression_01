@@ -29,7 +29,6 @@ The [data](https://github.com/adijams01/thermo_regression_01/blob/main/thermodyn
 
 variation of features against temperature can be seen like below figure [here](https://github.com/adijams01/thermo_regression_01/blob/main/Data_Graphs.ipynb)
 
-
 ![2](https://user-images.githubusercontent.com/92617405/201166975-2aa14538-7689-4ab1-9e1d-ccc18874c209.jpeg)
 
 
