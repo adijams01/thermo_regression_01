@@ -43,6 +43,7 @@ Best performing model is model_08 with **_loss: 2.9669 (- mae: 2.9669)_**
 
 ### References
 
+https://github.com/mrdbourke/tensorflow-deep-learning
 
 ### Contributors
 * [Chandu Bayyavarapu](https://github.com/Chandu106)
